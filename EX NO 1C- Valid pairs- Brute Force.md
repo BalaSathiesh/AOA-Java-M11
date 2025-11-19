@@ -1,6 +1,6 @@
 
 # EX 1C Valid Pairs using Brute Force Approach
-## DATE:31/09/25
+## DATE:13/08/25
 ## AIM:
 Given an array of integers nums and an integer k, return the number of unique k-diff pairs in the array.
 
