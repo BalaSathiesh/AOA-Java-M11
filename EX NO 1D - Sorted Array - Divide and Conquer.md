@@ -1,6 +1,6 @@
 
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE:31/09/2025
+## DATE:13/08/2025
 ## AIM:
 To write a Java program to for given constraints.
 Median of Two Sorted Arrays
