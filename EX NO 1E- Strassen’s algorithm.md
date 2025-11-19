@@ -18,8 +18,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ```
 /*
 Prog - Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm)
-Developed by: Karthick k
-Register Number: 212222040070
+Developed by: Bala Sathiesh CS
+Register Number: 212222040022
 */
 import java.util.Scanner;
 
